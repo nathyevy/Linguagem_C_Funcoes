@@ -2,8 +2,7 @@
 #include<locale.h>
 #include<math.h>
 
-float area(float r); //Protótipo da função
-
+float area(float r);
 int main(){
 	setlocale(LC_ALL, "Portuguese");
 	float r;
